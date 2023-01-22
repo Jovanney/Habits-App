@@ -4,6 +4,7 @@ import logoImage from '../assets/logoImage.svg'
 import "../styles/global.css"
 import * as Dialog from '@radix-ui/react-dialog'
 import { NewHabitForm } from './NewHabitForm'
+import {HabitsList} from './HabitsList'
 
 
 export const Header = ()=>{
